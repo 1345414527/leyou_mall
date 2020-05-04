@@ -1,0 +1,23 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: cart-service
+  redis:
+    host: 39.97.180.158
+    password: jcl5412415845
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    registry-fetch-interval-seconds: 10
+  instance:
+    lease-expiration-duration-in-seconds: 15
+    lease-renewal-interval-in-seconds: 5
+
+
+leyou:
+  jwt:
+    pubKeyPath: E:\\知识学习\\乐优商城-11月版\\leyou\\day17-授权中心\\rsa.pub # 公钥地址
+    cookieName: LY_TOKEN

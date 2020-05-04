@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "leyou.jwt",
+      "type": "top.codekiller.auth.properties.JwtProperties",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "leyou.jwt.cookie-name",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.expire",
+      "type": "java.lang.Integer",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "leyou.jwt.pri-key-path",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.private-key",
+      "type": "java.security.PrivateKey",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.pub-key-path",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.public-key",
+      "type": "java.security.PublicKey",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.auth.properties.JwtProperties"
+    }
+  ],
+  "hints": []
+}

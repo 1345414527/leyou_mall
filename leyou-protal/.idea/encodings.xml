@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../SpringBoot/spring-boot-04-web-restfulcrud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../itcast-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-aliyunSms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-auth/leyou-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-auth/leyou-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-goods-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-item/leyou-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-item/leyou-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-elasticsearch" charset="UTF-8" />
+  </component>
+</project>

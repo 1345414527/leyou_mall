@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "uploadinfo",
+      "type": "top.codekiller.leyou.upload.properties.UploadProperties",
+      "sourceType": "top.codekiller.leyou.upload.properties.UploadProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "uploadinfo.content-types",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "top.codekiller.leyou.upload.properties.UploadProperties"
+    },
+    {
+      "name": "uploadinfo.image-url",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.leyou.upload.properties.UploadProperties"
+    },
+    {
+      "name": "uploadinfo.save-path",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.leyou.upload.properties.UploadProperties"
+    }
+  ],
+  "hints": []
+}

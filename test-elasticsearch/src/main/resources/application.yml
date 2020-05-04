@@ -1,0 +1,12 @@
+#spring:
+#  elasticsearch:
+#    rest:
+#      uris:
+#        - 39.97.180.158:9200
+
+
+spring:
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 39.97.180.158:9300

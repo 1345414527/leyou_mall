@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "leyou.filter",
+      "type": "top.codekiller.leyouGateway.properties.FilterProperties",
+      "sourceType": "top.codekiller.leyouGateway.properties.FilterProperties"
+    },
+    {
+      "name": "leyou.jwt",
+      "type": "top.codekiller.leyouGateway.properties.JwtProperties",
+      "sourceType": "top.codekiller.leyouGateway.properties.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "leyou.filter.allow-paths",
+      "type": "java.util.List<java.lang.String>",
+      "description": "允许不经过filter的路经集合",
+      "sourceType": "top.codekiller.leyouGateway.properties.FilterProperties"
+    },
+    {
+      "name": "leyou.jwt.cookie-name",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.leyouGateway.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.pub-key-path",
+      "type": "java.lang.String",
+      "sourceType": "top.codekiller.leyouGateway.properties.JwtProperties"
+    },
+    {
+      "name": "leyou.jwt.public-key",
+      "type": "java.security.PublicKey",
+      "sourceType": "top.codekiller.leyouGateway.properties.JwtProperties"
+    }
+  ],
+  "hints": []
+}

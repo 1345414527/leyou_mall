@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../leyou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-item/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../test-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-goods-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringBoot/spring-boot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../dysms-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou-parent/leyou-order/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
