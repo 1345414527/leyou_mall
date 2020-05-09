@@ -7,13 +7,13 @@ spring:
   data:
     elasticsearch:
       cluster-name: elasticsearch
-      cluster-nodes: 39.97.180.158:9300
+      cluster-nodes: 172.168.1.1:9300
   main:
     allow-bean-definition-overriding: true  #允许多个相同bean
   jackson:
     default-property-inclusion: non_null  #配置json处理室忽略空值
   rabbitmq:
-    host: 39.97.180.158
+    host: 172.168.1.1
     username: leyou
     password: leyou
     virtual-host: leyou

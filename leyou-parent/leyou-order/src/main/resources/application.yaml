@@ -6,7 +6,7 @@ spring:
     name: order-service
   datasource:
     username: root
-    password: jcl5412415845
+    password: root
     url: jdbc:mysql://localhost:3306/leyou?characterEncoding=UTF-8&serverTimezone=UTC
     type: com.alibaba.druid.pool.DruidDataSource
     # 下面为连接池的补充设置，应用到上面所有数据源中
@@ -41,7 +41,7 @@ spring:
     # 合并多个DruidDataSource的监控数据
     useGlobalDataSourceStat: true
   rabbitmq:
-    host: 39.97.180.158
+    host: 172.168.1.1
     username: leyou
     password: leyou
     virtual-host: leyou
@@ -54,7 +54,7 @@ spring:
       exchange: leyou.item.exchange
     publisher-confirms: true
   redis:
-    host: 39.97.180.158
+    host: 172.168.1.1
 eureka:
   client:
     service-url:

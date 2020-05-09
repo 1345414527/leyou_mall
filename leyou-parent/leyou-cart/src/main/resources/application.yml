@@ -4,8 +4,8 @@ spring:
   application:
     name: cart-service
   redis:
-    host: 39.97.180.158
-    password: jcl5412415845
+    host: 172.168.1.1
+    password: 123456
 
 eureka:
   client:
