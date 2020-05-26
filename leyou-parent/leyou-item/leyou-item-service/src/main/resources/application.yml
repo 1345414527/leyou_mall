@@ -5,7 +5,7 @@ spring:
     name: item-service
   datasource:
     username: root
-    password: root
+    password: jcl5412415845
     url: jdbc:mysql://localhost:3306/leyou?characterEncoding=UTF-8&serverTimezone=UTC
     type: com.alibaba.druid.pool.DruidDataSource
     # 下面为连接池的补充设置，应用到上面所有数据源中

@@ -24,6 +24,18 @@
       <module fileurl="file://$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user.iml" filepath="$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-interface/leyou-user-interface.iml" filepath="$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-interface/leyou-user-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-service/leyou-user-service.iml" filepath="$PROJECT_DIR$/../leyou-parent/leyou-user/leyou-user-service/leyou-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth-interface/manager-auth-interface.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth-interface/manager-auth-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth-service/manager-auth-service.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-auth/manager-auth-service/manager-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-common/manager-common.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-common/manager-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-gateway/manager-gateway.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-gateway/manager-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-sms/manager-sms.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-sms/manager-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-upload/manager-upload.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-upload/manager-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user-interface/manager-user-interface.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user-interface/manager-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user-service/manager-user-service.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-user/manager-user-service/manager-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebManager/manager/manager-registery/managerregistery.iml" filepath="$PROJECT_DIR$/../../WebManager/manager/manager-registery/managerregistery.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../SpringBoot/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" filepath="$PROJECT_DIR$/../../SpringBoot/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test-elasticsearch/test-elasticsearch.iml" filepath="$PROJECT_DIR$/../test-elasticsearch/test-elasticsearch.iml" />
     </modules>

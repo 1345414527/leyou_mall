@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="leyou-item-service" />
-        <module name="leyou-cart" />
+        <module name="manager-common" />
         <module name="leyou-upload" />
+        <module name="spring-boot-04-web-restfulcrud" />
         <module name="leyou-auth-common" />
         <module name="leyou-goods-web" />
         <module name="leyou-auth-service" />
@@ -16,15 +17,23 @@
         <module name="leyou-user-service" />
         <module name="dysms-demo" />
         <module name="leyou-registry" />
-        <module name="spring-boot-04-web-restfulcrud" />
+        <module name="leyou-cart" />
         <module name="leyou-order" />
+        <module name="manager-user-interface" />
         <module name="test-elasticsearch" />
+        <module name="manager-auth-service" />
         <module name="leyou-aliyunSms" />
         <module name="leyou-search" />
+        <module name="manager-auth-interface" />
         <module name="leyou-common" />
-        <module name="leyou-user-interface" />
+        <module name="manager-sms" />
         <module name="leyou-item-interface" />
         <module name="itcast-rabbitmq" />
+        <module name="leyou-user-interface" />
+        <module name="managerregistery" />
+        <module name="manager-user-service" />
+        <module name="manager-gateway" />
+        <module name="manager-upload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -49,6 +58,18 @@
       <module name="leyou-user" target="1.8" />
       <module name="leyou-user-interface" target="1.8" />
       <module name="leyou-user-service" target="1.8" />
+      <module name="manager" target="1.8" />
+      <module name="manager-auth" target="1.8" />
+      <module name="manager-auth-interface" target="1.8" />
+      <module name="manager-auth-service" target="1.8" />
+      <module name="manager-common" target="1.8" />
+      <module name="manager-gateway" target="1.8" />
+      <module name="manager-sms" target="1.8" />
+      <module name="manager-upload" target="1.8" />
+      <module name="manager-user" target="1.8" />
+      <module name="manager-user-interface" target="1.8" />
+      <module name="manager-user-service" target="1.8" />
+      <module name="managerregistery" target="1.8" />
       <module name="spring-boot-04-web-restfulcrud" target="1.8" />
       <module name="test-elasticsearch" target="1.8" />
     </bytecodeTargetLevel>
@@ -73,6 +94,17 @@
       <module name="leyou-user" options="-parameters" />
       <module name="leyou-user-interface" options="-parameters" />
       <module name="leyou-user-service" options="-parameters" />
+      <module name="manager-auth" options="-parameters" />
+      <module name="manager-auth-interface" options="-parameters" />
+      <module name="manager-auth-service" options="-parameters" />
+      <module name="manager-common" options="-parameters" />
+      <module name="manager-gateway" options="-parameters" />
+      <module name="manager-sms" options="-parameters" />
+      <module name="manager-upload" options="-parameters" />
+      <module name="manager-user" options="-parameters" />
+      <module name="manager-user-interface" options="-parameters" />
+      <module name="manager-user-service" options="-parameters" />
+      <module name="managerregistery" options="-parameters" />
       <module name="spring-boot-04-web-restfulcrud" options="-parameters" />
       <module name="test-elasticsearch" options="-parameters" />
     </option>

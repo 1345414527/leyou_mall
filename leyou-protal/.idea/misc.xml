@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/../itcast-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/../dysms-demo/pom.xml" />
         <option value="$PROJECT_DIR$/../leyou-parent/leyou-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../../WebManager/manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../../WebManager/manager/manager-common/pom.xml" />
       </list>
     </option>
   </component>

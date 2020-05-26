@@ -40,7 +40,7 @@ spring:
     # 合并多个DruidDataSource的监控数据
     useGlobalDataSourceStat: true
   rabbitmq:
-    host: 39.97.180.158
+    host: 172.168.1.1
     username: leyou
     password: leyou
     virtual-host: leyou
